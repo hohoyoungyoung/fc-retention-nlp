@@ -37,7 +37,17 @@ Detecting emotional signals in Korean call center conversations to support FC re
   - 감성 분석 모델을 통한 감정 점수 부여
   - 발화 순서 기반 감정 변화 파악
 
+## 📦 데이터 출처
+
+본 프로젝트에 사용된 데이터는 [AI Hub](https://aihub.or.kr/)의  
+**"보험 해지 상담 음성 데이터 (STT 텍스트 포함)"**를 기반으로 분석되었습니다.
+
+⚠️ 데이터는 AI Hub 사이트에서 직접 다운로드하셔야 합니다.  
+원본 데이터는 저작권 보호를 위해 GitHub에는 포함되어 있지 않습니다.
+
 ---
+
+
 
 ## 🧠 사용 모델
 
