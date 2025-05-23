@@ -87,5 +87,8 @@ Detecting emotional signals in Korean call center conversations to support FC re
 
 ---
 
-## 🗂️ 프로젝트 구조
+## 📄 발표 자료
+
+👉 [발표 자료 다운로드 (PDF)](https://github.com/hohoyoungyoung/fc-retention-nlp/blob/main/files/삼성생명-서호영-팀-최종.pdf)
+
 
